@@ -1,6 +1,6 @@
-# EMERGE: Constraining observation timescales of merging galaxies...the notebook!
+# EMERGE: Constraining merging probabilities and timescales of close galaxy pairs...the notebook!
 
-This repository/notebook is intended to reproduce the key results from the paper **PUT PAPER LINK HERE**
+This repository/notebook is intended to reproduce the key results from the paper [EMERGE: Constraining merging probabilities and timescales of close galaxy pairs](https://ui.adsabs.harvard.edu/abs/2020arXiv201105341O/abstract)\
 
 ## Getting started
 
@@ -34,7 +34,7 @@ The most important part of this is the parameterfile folder, and the output fold
 
 If you find this notebook helpful please cite these papers:
 
-**PUT PAPER LINK HERE**\
+[EMERGE: Constraining merging probabilities and timescales of close galaxy pairs](https://ui.adsabs.harvard.edu/abs/2020arXiv201105341O/abstract)\
 [EMERGE - an empirical model for the formation of galaxies since z~10](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1822M/abstract)
 
 **Discalimer:**
