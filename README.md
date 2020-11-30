@@ -1,6 +1,6 @@
 # EMERGE: Constraining merging probabilities and timescales of close galaxy pairs...the notebook!
 
-This repository/notebook is intended to reproduce the key results from the paper [EMERGE: Constraining merging probabilities and timescales of close galaxy pairs](https://ui.adsabs.harvard.edu/abs/2020arXiv201105341O/abstract)\
+This repository/notebook is intended to reproduce the key results from the paper [EMERGE: Constraining merging probabilities and timescales of close galaxy pairs](https://ui.adsabs.harvard.edu/abs/2020arXiv201105341O/abstract)
 
 ## Getting started
 
